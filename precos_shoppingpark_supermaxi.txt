@@ -1,0 +1,10 @@
+arroz; 6.50
+feijao; R$ 3.99
+oleo de cozinha; 4.50
+acucar; 2.99
+café; 8.99
+leite; 2.79
+carne bovina quilo; 25.99
+macarrao; 2.49
+farinha de trigo; 3.29
+sabao em po; 7.99

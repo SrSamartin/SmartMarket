@@ -1,0 +1,10 @@
+arroz; 5.80
+feijao; 3.80
+oleo de cozinha; 4.40
+acucar; 2.90
+cafe; 8.80
+leite; 2.70
+carne bovina; 25.50
+macarrao; 2.40
+farinha de trigo; 3.20
+sabao em po; 7.70
